@@ -72,7 +72,7 @@ def index():
 <!DOCTYPE html>
 <html>
 <head>
-    <title>HENRY-X 2.0</title>
+    <title>GURI SINGH 2.0</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
@@ -164,8 +164,8 @@ def index():
   </div>
           <!-- Add this just before </body> -->
   <footer style="text-align:center; color: #888; margin-top: 40px; font-size: 14px;">
-      © 2025 HENRY-X. All Rights Reserved<br>
-      Made with by Henry
+      © 2025 GURI SINGH. All Rights Reserved<br>
+      Made with by GURI SINGH
   </footer>
  
     <script>
